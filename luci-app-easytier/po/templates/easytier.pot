@@ -1048,3 +1048,15 @@ msgstr ""
 msgid "Automatically add firewall rules to allow WAN access to the API control page"
 msgstr ""
 
+msgid "Switch Mode"
+msgstr ""
+
+msgid "Simple Mode"
+msgstr ""
+
+msgid "Advanced Mode"
+msgstr ""
+
+msgid "Switch between Simple Mode and Advanced Mode"
+msgstr ""
+

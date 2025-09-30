@@ -22,6 +22,13 @@ s:tab("upload", translate("Upload Program"))
 switch = s:taboption("general",Flag, "enabled", translate("Enable"))
 switch.rmempty = false
 
+-- Add mode switch button next to enable switch
+mode_switch = s:taboption("general", Button, "mode_switch", translate("Switch Mode"))
+mode_switch.inputtitle = translate("Simple Mode")
+mode_switch.description = translate("Switch between Simple Mode and Advanced Mode")
+mode_switch.inputstyle = "apply"
+mode_switch.template = "easytier/mode_switch"
+
 btncq = s:taboption("general", Button, "btncq", translate("Restart"))
 btncq.inputtitle = translate("Restart")
 btncq.description = translate("Quickly restart once without modifying any parameters")

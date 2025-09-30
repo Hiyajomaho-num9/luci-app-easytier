@@ -1084,3 +1084,15 @@ msgstr "外网访问API"
 msgid "Automatically add firewall rules to allow WAN access to the API control page"
 msgstr "自动添加防火墙端口放行规则，外网可访问API控制页面"
 
+msgid "Switch Mode"
+msgstr "切换模式"
+
+msgid "Simple Mode"
+msgstr "简易模式"
+
+msgid "Advanced Mode"  
+msgstr "高级模式"
+
+msgid "Switch between Simple Mode and Advanced Mode"
+msgstr "在简易模式和高级模式之间切换"
+
